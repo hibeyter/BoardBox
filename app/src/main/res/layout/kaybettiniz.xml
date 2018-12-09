@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/kaybettin"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+    <Button
+        android:id="@+id/artıbesbtn"
+        android:layout_width="135dp"
+        android:layout_height="32dp"
+        android:background="@drawable/btnpembeek"
+        android:layout_marginTop="30dp"
+        />
+
+    <Button
+        android:id="@+id/kayiptekraroyna"
+        android:layout_width="135dp"
+        android:layout_height="32dp"
+        android:background="@drawable/btntekrardene"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+
+        android:id="@+id/kayipbtnhome"
+        android:layout_width="135dp"
+        android:layout_height="32dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/kaybettincikis"
+
+
+    />
+
+
+</LinearLayout>
